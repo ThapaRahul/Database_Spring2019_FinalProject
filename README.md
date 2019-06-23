@@ -1,3 +1,5 @@
 # Database_Spring2019_FinalProject
-This is the final project of CSC-4480, Introduction to Database. We designed an Electronic Waste Management Database. 
-![Image description](FinalERModel.pdf)
+
+Team Members: Rahul Thapa, Alex Gustafson, Michael DiGiacomo, Peter Lyu
+
+This is the final project of CSC-4480, Introduction to Database. We designed an Electronic Waste Management Database, a database to store information about components and devices being sold by users. Our database aims to reduce the number of electronics that are unnecessarily wasted by allowing people to salvage and share their working parts with others. From casual internet surfers and electronic enthusiasts to retailers who manufacture electronics in bulk, this database is helpful to anyone engaged with electronics. The database keeps track of all the important information regarding a specific part, such as the model, manufacturer, age, value, identification number, and compatibility with other devices. Database users can easily search, buy, and sell parts to other users. Plus, with a personalized recommendation system, our database could recommend future parts to users based on past searches and purchases. With this database, we can fundamentally change how the world manages technology and mitigate the growing amount of electronic waste in landfills.
