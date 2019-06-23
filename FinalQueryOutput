@@ -1,0 +1,135 @@
+
+PMODEL                                             PVERSION                                                PRICE
+-------------------------------------------------- -------------------------------------------------- ----------
+Logitech Speakers                                  S-130                                                      25
+Samsung Speakers                                   S-12                                                       40
+Logitech Speakers                                  S-10                                                       45
+Mackie Speakers                                    CR4BT 4                                                   100
+
+
+TECH_CATEGO  MAX_PRICE  MIN_PRICE  AVG_PRICE
+----------- ---------- ---------- ----------
+Motherboard        400        100        250
+
+
+PMODEL                                             PVERSION                                           DATE_MANU TECH_CATEGORY             PRICE USER_NAME                                          USER_ADDRESS                                                                                        
+-------------------------------------------------- -------------------------------------------------- --------- -------------------- ---------- -------------------------------------------------- ----------------------------------------------------------------------------------------------------
+MSI Motherbaord                                    MSI-740                                            08-JAN-09 Motherboard                 300 Zavia Kade?                                        873 Pierce Street Gwynn Oak, MD 21207                                                               
+GigaByte Motherbaord                               X740                                               07-JAN-00 Motherboard                 400 Iepthae Mac Reachtain                              652 Redwood Street Hammonton, NJ 08037                                                              
+TeraByte Motherbaord                               T70                                                07-JAN-10 Motherboard                 100 Aaliyah Wescott                                    344 Ridgewood Street Stone Mountain, GA 30083                                                       
+MSI Motherbaord                                    MSI-74                                             07-JAN-12 Motherboard                 200 Lizaveta Kaufman                                   689 White Drive Elkhart, IN 46514                                                                   
+
+
+   PART_ID PSERIAL_NUMBER       PMODEL                                             PVERSION                                           TECH_CATEGORY        F
+---------- -------------------- -------------------------------------------------- -------------------------------------------------- -------------------- -
+         1 A2345678901234567890 SSD                                                500 GB                                             SSD                  Y
+         2 B2345678901234567891 Hard Disk                                          1000 GB                                            Hard Disk            Y
+         5 E2345678901234567894 Massdrop Keyboard                                  X                                                  Keyboard             Y
+         6 F2345678901234567895 SteelSeries Mouse                                  600                                                Mouse                Y
+         8 J2345678901234567897 NVIDIA Graphics Card                               RTX 2080 Ti                                        Graphics Card        Y
+        10 L2345678901234567899 Logitech Speakers                                  S-130                                              Speaker              Y
+        11 L2345678901234567811 Samsung Speakers                                   S-12                                               Speaker              Y
+        12 L2345678901234567812 Logitech Speakers                                  S-10                                               Speaker              Y
+        14 G2345678901234567814 TeraByte Motherbaord                               T70                                                Motherboard          Y
+        15 G2345678901234567815 MSI Motherbaord                                    MSI-74                                             Motherboard          Y
+
+10 rows selected. 
+
+
+TECH_CATEGORY        MIN(TP.PRICE) AVERAGE_PRICE
+-------------------- ------------- -------------
+Mouse                           30            30
+Speaker                         25          52.5
+Keyboard                        20            20
+Hard Disk                       20            20
+
+
+PMODEL                                             PVERSION                                                PRICE
+-------------------------------------------------- -------------------------------------------------- ----------
+Logitech Speakers                                  S-130                                                      25
+Samsung Speakers                                   S-12                                                       40
+Logitech Speakers                                  S-10                                                       45
+Mackie Speakers                                    CR4BT 4                                                   100
+
+
+TECH_CATEGO  MAX_PRICE  MIN_PRICE  AVG_PRICE
+----------- ---------- ---------- ----------
+Motherboard        400        100        250
+
+
+PMODEL                                             PVERSION                                           DATE_MANU TECH_CATEGORY             PRICE USER_NAME                                          USER_ADDRESS                                                                                        
+-------------------------------------------------- -------------------------------------------------- --------- -------------------- ---------- -------------------------------------------------- ----------------------------------------------------------------------------------------------------
+MSI Motherbaord                                    MSI-740                                            08-JAN-09 Motherboard                 300 Zavia Kade?                                        873 Pierce Street Gwynn Oak, MD 21207                                                               
+GigaByte Motherbaord                               X740                                               07-JAN-00 Motherboard                 400 Iepthae Mac Reachtain                              652 Redwood Street Hammonton, NJ 08037                                                              
+TeraByte Motherbaord                               T70                                                07-JAN-10 Motherboard                 100 Aaliyah Wescott                                    344 Ridgewood Street Stone Mountain, GA 30083                                                       
+MSI Motherbaord                                    MSI-74                                             07-JAN-12 Motherboard                 200 Lizaveta Kaufman                                   689 White Drive Elkhart, IN 46514                                                                   
+
+
+   PART_ID PSERIAL_NUMBER       PMODEL                                             PVERSION                                           TECH_CATEGORY        F
+---------- -------------------- -------------------------------------------------- -------------------------------------------------- -------------------- -
+         1 A2345678901234567890 SSD                                                500 GB                                             SSD                  Y
+         2 B2345678901234567891 Hard Disk                                          1000 GB                                            Hard Disk            Y
+         5 E2345678901234567894 Massdrop Keyboard                                  X                                                  Keyboard             Y
+         6 F2345678901234567895 SteelSeries Mouse                                  600                                                Mouse                Y
+         8 J2345678901234567897 NVIDIA Graphics Card                               RTX 2080 Ti                                        Graphics Card        Y
+        10 L2345678901234567899 Logitech Speakers                                  S-130                                              Speaker              Y
+        11 L2345678901234567811 Samsung Speakers                                   S-12                                               Speaker              Y
+        12 L2345678901234567812 Logitech Speakers                                  S-10                                               Speaker              Y
+        14 G2345678901234567814 TeraByte Motherbaord                               T70                                                Motherboard          Y
+        15 G2345678901234567815 MSI Motherbaord                                    MSI-74                                             Motherboard          Y
+
+10 rows selected. 
+
+
+TECH_CATEGORY        MIN(TP.PRICE) AVERAGE_PRICE
+-------------------- ------------- -------------
+Mouse                           30            30
+Speaker                         25            53
+Keyboard                        20            20
+Hard Disk                       20            20
+
+
+PMODEL                                             PVERSION                                                PRICE
+-------------------------------------------------- -------------------------------------------------- ----------
+Logitech Speakers                                  S-130                                                      25
+Samsung Speakers                                   S-12                                                       40
+Logitech Speakers                                  S-10                                                       45
+Mackie Speakers                                    CR4BT 4                                                   100
+
+
+TECH_CATEGO  MAX_PRICE  MIN_PRICE  AVG_PRICE
+----------- ---------- ---------- ----------
+Motherboard        400        100        250
+
+
+PMODEL                                             PVERSION                                           DATE_MANU TECH_CATEGORY             PRICE USER_NAME                                          USER_ADDRESS                                                                                        
+-------------------------------------------------- -------------------------------------------------- --------- -------------------- ---------- -------------------------------------------------- ----------------------------------------------------------------------------------------------------
+MSI Motherbaord                                    MSI-740                                            08-JAN-09 Motherboard                 300 Zavia Kade?                                        873 Pierce Street Gwynn Oak, MD 21207                                                               
+GigaByte Motherbaord                               X740                                               07-JAN-00 Motherboard                 400 Iepthae Mac Reachtain                              652 Redwood Street Hammonton, NJ 08037                                                              
+TeraByte Motherbaord                               T70                                                07-JAN-10 Motherboard                 100 Aaliyah Wescott                                    344 Ridgewood Street Stone Mountain, GA 30083                                                       
+MSI Motherbaord                                    MSI-74                                             07-JAN-12 Motherboard                 200 Lizaveta Kaufman                                   689 White Drive Elkhart, IN 46514                                                                   
+
+
+   PART_ID PSERIAL_NUMBER       PMODEL                                             PVERSION                                           TECH_CATEGORY        F
+---------- -------------------- -------------------------------------------------- -------------------------------------------------- -------------------- -
+         1 A2345678901234567890 SSD                                                500 GB                                             SSD                  Y
+         2 B2345678901234567891 Hard Disk                                          1000 GB                                            Hard Disk            Y
+         5 E2345678901234567894 Massdrop Keyboard                                  X                                                  Keyboard             Y
+         6 F2345678901234567895 SteelSeries Mouse                                  600                                                Mouse                Y
+         8 J2345678901234567897 NVIDIA Graphics Card                               RTX 2080 Ti                                        Graphics Card        Y
+        10 L2345678901234567899 Logitech Speakers                                  S-130                                              Speaker              Y
+        11 L2345678901234567811 Samsung Speakers                                   S-12                                               Speaker              Y
+        12 L2345678901234567812 Logitech Speakers                                  S-10                                               Speaker              Y
+        14 G2345678901234567814 TeraByte Motherbaord                               T70                                                Motherboard          Y
+        15 G2345678901234567815 MSI Motherbaord                                    MSI-74                                             Motherboard          Y
+
+10 rows selected. 
+
+
+TECH_CATEGORY        MIN(TP.PRICE) AVERAGE_PRICE
+-------------------- ------------- -------------
+Mouse                           30            30
+Speaker                         25            53
+Keyboard                        20            20
+Hard Disk                       20            20
+
